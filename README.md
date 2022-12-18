@@ -17,6 +17,9 @@ The little panel at the right side is from [Power Checker](https://ficsit.app/mo
 
 ## Changelog
 
+<details>
+  <summary>Click to view</summary>
+
 **1.0.5**
  * Fixed U7 (v0.7.0.6) compatibility
 
@@ -36,6 +39,8 @@ The little panel at the right side is from [Power Checker](https://ficsit.app/mo
 
 **1.0.0**
  * Initial release
+
+</details>
 
 ## Thanks
 
